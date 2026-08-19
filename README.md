@@ -1,1 +1,0 @@
-# discord_ban_bot
